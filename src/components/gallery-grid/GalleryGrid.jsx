@@ -28,8 +28,8 @@ const Item = styled(motion.div)`
   cursor: pointer;
 
   img {
-    width: 100%;
-    height: 100%;
+    width: 350px;
+    height: 350px;
     object-fit: cover;
     transition: transform 0.3s ease;
   }
