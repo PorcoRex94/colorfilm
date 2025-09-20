@@ -66,7 +66,7 @@ const trabajos = [
 export const ServicesRow = () => {
   const navigate = useNavigate();
   return (
-    <Section>
+    <Section id="nosotros">
       {/* Intro */}
       <Intro>
         <motion.h2

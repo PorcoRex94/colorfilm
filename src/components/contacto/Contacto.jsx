@@ -34,7 +34,7 @@ export const Contacto = () => {
   ];
 
   return (
-    <Section>
+    <Section id="contacto">
       {/* OLA SUPERIOR */}
       <TripleWave />
 
