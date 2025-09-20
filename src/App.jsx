@@ -3,7 +3,7 @@ import { Index } from "./pages/Index";
 import { GlobalComponent } from "./components/global-component/GlobalComponent";
 import { Preimpresion } from "./pages/Preimpresion";
 import { Gigantografia } from "./pages/Gigantografia";
-import { OffsetDigital } from "./pages/Offsetdigital";
+import { OffsetDigital } from "./pages/OffsetDigital";
 
 function App() {
   return (
